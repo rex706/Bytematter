@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FormatToHex.Properties
+namespace Bytematter.Properties
 {
 
 
